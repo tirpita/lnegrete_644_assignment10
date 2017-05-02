@@ -1,0 +1,31 @@
+{"classmates":[	
+    {		
+        "name":"Estella",
+        "title":"The Boss",
+        "bio":"Won't stop until she understands every single character of code and makes it work 'like a boss'. Questions everything."	
+    },
+    {
+        "name":"Cherl",
+        "title":"Yogi",
+        "bio":"The 'Go-to' classmate for healthy eating tips, recipies and overal sanity. "
+    },
+    {
+        "name":"Gerald",
+        "title":"Zen Master", 
+        "bio":"Keeps the peace by remaining calm and adapting gracefully to all situations."
+    
+    }, 
+    {
+        "name":"Zak",
+        "title":"Instructor", 
+        "bio":"Ring Leader, Powerpoint Master and Speed Lecturer. Can lecture up to speeds of 12 slides per minute."
+   
+    },
+        {
+        "name":"The Guy in Front",
+        "title":"Random Questioner Extrodinaire", 
+        "bio":"Can derail any lecture for a quarter of an hour by asking random, barely relatable questions on things we will never cover. An all-around class favorite!"
+   
+    }
+        
+  ]}
